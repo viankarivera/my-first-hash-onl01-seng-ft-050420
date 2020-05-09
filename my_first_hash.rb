@@ -5,5 +5,5 @@ end
 
 def shipping_manifest
   shipping_manifest = {"whale bone corsets" => "2", "oil paintings" => "5", "porcelain vases" => "3"}
-  puts shipping_manifest["oil paintings"]
+  return shipping_manifest["oil paintings"]
 end
