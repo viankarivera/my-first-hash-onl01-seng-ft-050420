@@ -4,7 +4,7 @@ my_hash = {"name" => "Vianka", "age" => "25", "pet" => "cat"}
 end
 
 def shipping_manifest
-  shipping_manifest = {"whale bone corsets" => 2, "oil paintings" => 3, "porcelain vases" => 5}
+  shipping_manifest = {"whale bone corsets" => 2, "oil paintings" => 5, "porcelain vases" => 3}
 end
 
 def retrieval
